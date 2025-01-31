@@ -22,13 +22,18 @@
 
 ## ⚙️ Installation
 
-Installing **Notra** is quick and easy!
+**Installing _Notra_ is quick and easy!**
 
 1. **Manual Installation**:
-    - Download the latest `Notra-1.0.0+minecraft.1.21.3-fabric.jar` from the [Notra Releases](https://github.com/imjustswaytooshy/notra/releases) page.
-    - Place the `Notra-1.0.0+minecraft.1.21.3-fabric.jar` file into your Minecraft `mods` folder (`.minecraft/mods`).
+    - **Download** the latest `Notra-1.0.0+minecraft.1.21.3-fabric.jar` from the [Notra Releases](https://github.com/imjustswaytooshy/notra/releases) page.
+    - **Place** the `Notra-1.0.0+minecraft.1.21.3-fabric.jar` file into your Minecraft `mods` folder (`.minecraft/mods`).
 
-*Note: Ensure you have the **Fabric** installed to use Notra. If you haven't installed Fabric yet, download it from the [official Fabric website](https://fabricmc.net/use/).*
+2. **Installation via Modrinth**:
+    - **Visit** the [Notra on Modrinth](https://modrinth.com/mod/notra) page.
+    - **Click** the **Download** button to get the latest version compatible with your Minecraft and Fabric setup.
+    - **Move** the downloaded `.jar` file into your Minecraft `mods` folder (`.minecraft/mods`).
+
+> **Note:** Ensure you have the **Fabric** loader installed to use Notra. If you haven't installed Fabric yet, download it from the [official Fabric website](https://fabricmc.net/use/).
 
 ---
 
